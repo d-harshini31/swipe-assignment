@@ -1,6 +1,6 @@
 Project Title: Invoice Generator
 
-Project live Demo :-   https://enchanting-sable-48671b.netlify.app/
+Project live Demo :-   https://invoice-generator-using-react-redux.netlify.app/
  
 Description:
 The Invoice Generator is a web application that allows users to create and manage invoices easily. 
