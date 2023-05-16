@@ -35,7 +35,7 @@ To run the Invoice Generator application locally, follow these steps:
 
 ![View Invoice](ScreenShots/View%20Invoice.png)
 
-![Invoice Download](ScreenShots/Invoice%20Download.png)
+![Invoice Download](ScreenShots/Invoice%20pdf.png)
 
 ![List Invoice](ScreenShots/List%20Invoice.png)
 
