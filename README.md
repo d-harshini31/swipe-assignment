@@ -1,5 +1,6 @@
 Project Title: Invoice Generator
-
+Project live Demo :-   https://enchanting-sable-48671b.netlify.app/
+ 
 Description:
 The Invoice Generator is a web application that allows users to create and manage invoices easily. 
 It provides a user-friendly interface for generating professional-looking invoices, Editing invoices, listing all the available invoices and deleting the invoice.
@@ -28,8 +29,7 @@ To run the Invoice Generator application locally, follow these steps:
 
         ```
         
-        live Demo :-   https://enchanting-sable-48671b.netlify.app/
-        
+       
         
 ![Home Screen](ScreenShots/Home%20Screen.png)
 
